@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 这世界上有一种鸟是没有脚的，它只能够一直的飞呀飞呀，飞累了就在风里面睡觉，这种鸟一辈子只能下地一次，那一次就是它死亡的时候。——《阿飞正传》
 
 * [在线阅读](https://linux.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-linux-zh/)
