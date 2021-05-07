@@ -8,6 +8,10 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-linux-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
+## 目录
+
++   [笨办法学 Linux 中文版](docs/llthw-zh/SUMMARY.md)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
