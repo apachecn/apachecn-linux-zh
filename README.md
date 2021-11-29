@@ -21,6 +21,16 @@
 +   [Linux 内核编程第二部分](docs/linux-kernel-prog-pt2/SUMMARY.md)
 +   [Linux Shell 编程训练营](docs/linux-shell-script-bc/SUMMARY.md)
 +   [Linux Shell 编程秘籍](docs/linux-shell-script-cb/SUMMARY.md)
++   [Azure 上的 Linux 管理实用指南](docs/handson-linux-admin-azure/SUMMARY.md)
++   [Linux 二进制分析学习手册](docs/learn-linux-bin-anal/SUMMARY.md)
++   [Linux 电子邮件](docs/linux-email/SUMMARY.md)
++   [面向网络专家的 Linux](docs/linux-net-prof/SUMMARY.md)
++   [精通 Linux 管理](docs/master-linux-admin/SUMMARY.md)
++   [精通 Linux 网络管理](docs/master-linux-net-admin/SUMMARY.md)
++   [精通 Linux Shell 脚本](docs/master-linux-shell-script/SUMMARY.md)
++   [红帽企业 Linux 8 管理](docs/rhel8-admin/SUMMARY.md)
++   [红帽企业 Linux 故障排除指南](docs/rhel-troubleshoot-guide/SUMMARY.md)
++   [WSL2 提示和技巧](docs/wsl2-tip-trick-tech/SUMMARY.md)
 
 ## 贡献指南
 
