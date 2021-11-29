@@ -31,6 +31,16 @@
 +   [红帽企业 Linux 8 管理](docs/rhel8-admin/SUMMARY.md)
 +   [红帽企业 Linux 故障排除指南](docs/rhel-troubleshoot-guide/SUMMARY.md)
 +   [WSL2 提示和技巧](docs/wsl2-tip-trick-tech/SUMMARY.md)
++   [配置 IPCop 防火墙](docs/conf-ipcop-fw/SUMMARY.md)
++   [Linux 系统编程实用手册](docs/handson-sys-prog-linux/SUMMARY.md)
++   [使用 Yocto 项目学习 Linux 嵌入式编程](docs/learn-emb-linux-yocto-proj/SUMMARY.md)
++   [精通 Linux 嵌入式编程](docs/master-emb-linux-prog/SUMMARY.md)
++   [精通 KVM 虚拟化](docs/master-kvm-virtual/SUMMARY.md)
++   [精通 Linux 设备驱动开发](docs/master-linux-device-driver-dev/SUMMARY.md)
++   [精通 Linux 内核开发](docs/master-linux-kernel-dev/SUMMARY.md)
++   [精通 Linux 安全和加固](docs/master-linux-sec-hard/SUMMARY.md)
++   [将 Linux 迁移到微软 Azure](docs/migrate-linux-ms-azure/SUMMARY.md)
++   [使用 Linux 工作](docs/work-with-linux/SUMMARY.md)
 
 ## 贡献指南
 
