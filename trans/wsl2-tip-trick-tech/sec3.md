@@ -6,6 +6,6 @@
 
 [*第九章*](09.html#_idTextAnchor111)，*Visual Studio Code 和 WSL*
 
-[*第十章*](10.html#_idTextAnchor125)，*Visual Studio Code和容器*
+[*第十章*](10.html#_idTextAnchor125)，*Visual Studio Code 和容器*
 
 [*第 11 章*](11.html#_idTextAnchor148)，*命令行工具的生产力提示*
