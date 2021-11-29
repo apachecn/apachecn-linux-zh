@@ -11,7 +11,7 @@
 ## 目录
 
 +   [笨办法学 Linux 中文版](docs/llthw-zh/SUMMARY.md)
-+   [ArchLinux 环境建立操作手册](docs/arch-linuc-env-setup/SUMMARY.md)
++   [ArchLinux 环境建立操作手册](docs/arch-linux-env-setup/SUMMARY.md)
 +   [Linux 基础知识](docs/fund-linux/SUMMARY.md)
 +   [Linux 架构实用手册](docs/handson-linux-arch/SUMMARY.md)
 +   [Linux Shell 脚本学习手册](docs/learn-linux-shell-script/SUMMARY.md)
