@@ -11,4 +11,4 @@
 *   [*第 5 章*](05.html#_idTextAnchor122)*，构建根文件系统*
 *   [*第 6 章*](06.html#_idTextAnchor164)*，选择构建系统*
 *   [*第 7 章*](07.html#_idTextAnchor193)*，与 Yocto*一起开发
-*   [*第 8 章*](08.html#_idTextAnchor223)*，《引擎盖下的Yocto》*
+*   [*第 8 章*](08.html#_idTextAnchor223)*，《引擎盖下的 Yocto》*
