@@ -1,4 +1,4 @@
-# 第二节:Windows 与 Linux 的必胜组合
+# 第二部分：Windows 与 Linux 的必胜组合
 
 本节将深入探讨跨 Windows 和 Linux 的 Windows 子系统工作的一些神奇之处，展示这两个操作系统是如何一起工作的。 您还将看到更多有效使用 Windows Terminal 的技巧。 最后，您还将看到如何在 wsdl 中使用容器，以及如何复制和管理您的 wsdl 发行版。
 
