@@ -1,4 +1,4 @@
-Section 2: Understanding and Working with the Kernel
+# 第二部分：理解和使用内核
 
 许多人纠结于内核开发的一个关键原因是缺乏对其内部的理解。这里，涵盖了内核架构、内存管理和调度的一些要点。
 
